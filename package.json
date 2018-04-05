@@ -7,10 +7,10 @@
   },
   "config": {
     "port": "1337",
-    "dbhost": "127.0.0.1",
-    "dbuser": "root",
-    "dbpass": "",
-    "dbname": "dwm",
+    "dbhost": "192.185.22.190",
+    "dbuser": "optate_mmo",
+    "dbpass": "databasepass1",
+    "dbname": "optate_mmo",
     "fixedHashSalt": "your0WNPr1vateK3yY0uSh0uldCh@nge",
     "email_user": "your@email.com",
     "email_pass": "",
@@ -18,8 +18,8 @@
   },
   "description": "Dot World Maker",
   "author": {
-    "name": "Alain",
-    "email": "bertrand@nodalideas.com"
+    "name": "AJ",
+    "email": "optate823@gmail.com"
   },
   "dependencies": {
     "express": "~4.9.0",
