@@ -9,9 +9,9 @@
     "port": "8080",
     "dbhost": "192.185.22.190",
     "dbuser": "optate_mmo",
-    "dbpass": "databasepass1",
+    "dbpass": "datapass1",
     "dbname": "optate_mmo",
-    "fixedHashSalt": "your0WNPr1vateK3yY0uSh0uldCh@nge",
+    "fixedHashSalt": "datapass1",
     "email_user": "your@email.com",
     "email_pass": "",
     "email_server": "mail.com"
