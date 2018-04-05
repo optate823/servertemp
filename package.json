@@ -6,7 +6,7 @@
     "start": "node server.js"
   },
   "config": {
-    "port": "8080",
+    "port": "3306",
     "dbhost": "192.185.22.190",
     "dbuser": "optate_mmo",
     "dbpass": "datapass1",
