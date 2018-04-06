@@ -10,7 +10,7 @@
     "dbhost": "127.0.0.1",
     "dbuser": "admin",
     "dbpass": "*admin",
-    "dbname": "wdb",
+    "dbname": "sampledb",
     "fixedHashSalt": "mypasshas",
     "email_user": "your@email.com",
     "email_pass": "",
