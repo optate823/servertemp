@@ -6,7 +6,7 @@
     "start": "node server.js"
   },
   "config": {
-    "port": "3306",
+    "port": "8080",
     "dbhost": "10.129.20.73",
     "dbuser": "admin",
     "dbpass": "*admin",
