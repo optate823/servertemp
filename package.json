@@ -7,7 +7,7 @@
   },
   "config": {
     "port": "8080",
-    "dbhost": "10.129.20.73",
+    "dbhost": "127.0.0.1",
     "dbuser": "admin",
     "dbpass": "*admin",
     "dbname": "wdb",
