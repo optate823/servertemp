@@ -6,12 +6,12 @@
     "start": "node server.js"
   },
   "config": {
-    "port": "8080",
-    "dbhost": "192.185.22.190",
-    "dbuser": "optate_mmo",
-    "dbpass": "datapass1",
-    "dbname": "optate_mmo",
-    "fixedHashSalt": "datapass1",
+    "port": "3306",
+    "dbhost": "10.129.20.73",
+    "dbuser": "admin",
+    "dbpass": "*admin",
+    "dbname": "wdb",
+    "fixedHashSalt": "mypasshas",
     "email_user": "your@email.com",
     "email_pass": "",
     "email_server": "mail.com"
